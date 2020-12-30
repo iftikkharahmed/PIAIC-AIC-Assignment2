@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# %load "Assignment2_NumpyBasicsToAdvance.py"
 # Read Instructions carefully before attemption this assignment
 
 # 1) don't rename any function name
